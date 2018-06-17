@@ -24,10 +24,10 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        /*
-        * Run the following method one after another. At any time, only
-        * one them must be uncommented.
-        */
+        
+        // Run the following methods one after another. At any time, only
+        // one them must be uncommented.
+        
         // listAssets()
         // downloadAsset()
         // displayAsset()
