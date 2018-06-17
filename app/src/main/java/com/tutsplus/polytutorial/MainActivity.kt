@@ -28,7 +28,7 @@ class MainActivity : AppCompatActivity() {
         // Run the following methods one after another. At any time, only
         // one them must be uncommented.
         
-        // listAssets()
+        listAssets()
         // downloadAsset()
         // displayAsset()
     }
